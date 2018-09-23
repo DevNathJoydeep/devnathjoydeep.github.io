@@ -1,0 +1,563 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 738.27 228.684">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-16, .cls-17, .cls-18, .cls-19, .cls-2, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-4, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-15, .cls-3 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip);
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-2);
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-3);
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-4);
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-5);
+      }
+
+      .cls-10 {
+        clip-path: url(#clip-6);
+      }
+
+      .cls-11 {
+        clip-path: url(#clip-7);
+      }
+
+      .cls-12 {
+        clip-path: url(#clip-8);
+      }
+
+      .cls-13 {
+        clip-path: url(#clip-9);
+      }
+
+      .cls-14 {
+        clip-path: url(#clip-10);
+      }
+
+      .cls-15 {
+        fill: #fff;
+      }
+
+      .cls-16 {
+        clip-path: url(#clip-11);
+      }
+
+      .cls-17 {
+        clip-path: url(#clip-12);
+      }
+
+      .cls-18 {
+        clip-path: url(#clip-13);
+      }
+
+      .cls-19 {
+        clip-path: url(#clip-14);
+      }
+
+      .cls-20 {
+        clip-path: url(#clip-15);
+      }
+
+      .cls-21 {
+        clip-path: url(#clip-16);
+      }
+
+      .cls-22 {
+        clip-path: url(#clip-17);
+      }
+
+      .cls-23 {
+        clip-path: url(#clip-18);
+      }
+
+      .cls-24 {
+        clip-path: url(#clip-19);
+      }
+
+      .cls-25 {
+        clip-path: url(#clip-20);
+      }
+
+      .cls-26 {
+        clip-path: url(#clip-21);
+      }
+
+      .cls-27 {
+        clip-path: url(#clip-22);
+      }
+
+      .cls-28 {
+        clip-path: url(#clip-23);
+      }
+
+      .cls-29 {
+        clip-path: url(#clip-24);
+      }
+
+      .cls-30 {
+        clip-path: url(#clip-25);
+      }
+
+      .cls-31 {
+        clip-path: url(#clip-26);
+      }
+
+      .cls-32 {
+        clip-path: url(#clip-27);
+      }
+
+      .cls-33 {
+        clip-path: url(#clip-28);
+      }
+
+      .cls-34 {
+        clip-path: url(#clip-29);
+      }
+
+      .cls-35 {
+        clip-path: url(#clip-30);
+      }
+
+      .cls-36 {
+        clip-path: url(#clip-31);
+      }
+
+      .cls-37 {
+        clip-path: url(#clip-32);
+      }
+
+      .cls-38 {
+        clip-path: url(#clip-33);
+      }
+
+      .cls-39 {
+        clip-path: url(#clip-34);
+      }
+
+      .cls-40 {
+        clip-path: url(#clip-35);
+      }
+
+      .cls-41 {
+        clip-path: url(#clip-36);
+      }
+
+      .cls-42 {
+        clip-path: url(#clip-37);
+      }
+
+      .cls-43 {
+        clip-path: url(#clip-38);
+      }
+
+      .cls-44 {
+        clip-path: url(#clip-39);
+      }
+
+      .cls-45 {
+        clip-path: url(#clip-40);
+      }
+
+      .cls-46 {
+        clip-path: url(#clip-41);
+      }
+    </style>
+    <clipPath id="clip">
+      <use xlink:href="#fill"/>
+    </clipPath>
+    <clipPath id="clip-2">
+      <use xlink:href="#fill-2"/>
+    </clipPath>
+    <clipPath id="clip-3">
+      <use xlink:href="#fill-3"/>
+    </clipPath>
+    <clipPath id="clip-4">
+      <use xlink:href="#fill-4"/>
+    </clipPath>
+    <clipPath id="clip-5">
+      <use xlink:href="#fill-5"/>
+    </clipPath>
+    <clipPath id="clip-6">
+      <use xlink:href="#fill-6"/>
+    </clipPath>
+    <clipPath id="clip-7">
+      <use xlink:href="#fill-7"/>
+    </clipPath>
+    <clipPath id="clip-8">
+      <use xlink:href="#fill-8"/>
+    </clipPath>
+    <clipPath id="clip-9">
+      <use xlink:href="#fill-9"/>
+    </clipPath>
+    <clipPath id="clip-10">
+      <use xlink:href="#fill-10"/>
+    </clipPath>
+    <clipPath id="clip-11">
+      <use xlink:href="#fill-11"/>
+    </clipPath>
+    <clipPath id="clip-12">
+      <use xlink:href="#fill-12"/>
+    </clipPath>
+    <clipPath id="clip-13">
+      <use xlink:href="#fill-13"/>
+    </clipPath>
+    <clipPath id="clip-14">
+      <use xlink:href="#fill-14"/>
+    </clipPath>
+    <clipPath id="clip-15">
+      <use xlink:href="#fill-15"/>
+    </clipPath>
+    <clipPath id="clip-16">
+      <use xlink:href="#fill-16"/>
+    </clipPath>
+    <clipPath id="clip-17">
+      <use xlink:href="#fill-17"/>
+    </clipPath>
+    <clipPath id="clip-18">
+      <use xlink:href="#fill-18"/>
+    </clipPath>
+    <clipPath id="clip-19">
+      <use xlink:href="#fill-19"/>
+    </clipPath>
+    <clipPath id="clip-20">
+      <use xlink:href="#fill-20"/>
+    </clipPath>
+    <clipPath id="clip-21">
+      <use xlink:href="#fill-21"/>
+    </clipPath>
+    <clipPath id="clip-22">
+      <use xlink:href="#fill-22"/>
+    </clipPath>
+    <clipPath id="clip-23">
+      <use xlink:href="#fill-23"/>
+    </clipPath>
+    <clipPath id="clip-24">
+      <use xlink:href="#fill-24"/>
+    </clipPath>
+    <clipPath id="clip-25">
+      <use xlink:href="#fill-25"/>
+    </clipPath>
+    <clipPath id="clip-26">
+      <use xlink:href="#fill-26"/>
+    </clipPath>
+    <clipPath id="clip-27">
+      <use xlink:href="#fill-27"/>
+    </clipPath>
+    <clipPath id="clip-28">
+      <use xlink:href="#fill-28"/>
+    </clipPath>
+    <clipPath id="clip-29">
+      <use xlink:href="#fill-29"/>
+    </clipPath>
+    <clipPath id="clip-30">
+      <use xlink:href="#fill-30"/>
+    </clipPath>
+    <clipPath id="clip-31">
+      <use xlink:href="#fill-31"/>
+    </clipPath>
+    <clipPath id="clip-32">
+      <use xlink:href="#fill-32"/>
+    </clipPath>
+    <clipPath id="clip-33">
+      <use xlink:href="#fill-33"/>
+    </clipPath>
+    <clipPath id="clip-34">
+      <use xlink:href="#fill-34"/>
+    </clipPath>
+    <clipPath id="clip-35">
+      <use xlink:href="#fill-35"/>
+    </clipPath>
+    <clipPath id="clip-36">
+      <use xlink:href="#fill-36"/>
+    </clipPath>
+    <clipPath id="clip-37">
+      <use xlink:href="#fill-37"/>
+    </clipPath>
+    <clipPath id="clip-38">
+      <use xlink:href="#fill-38"/>
+    </clipPath>
+    <clipPath id="clip-39">
+      <use xlink:href="#fill-39"/>
+    </clipPath>
+    <clipPath id="clip-40">
+      <use xlink:href="#fill-40"/>
+    </clipPath>
+    <clipPath id="clip-41">
+      <use xlink:href="#fill-41"/>
+    </clipPath>
+  </defs>
+  <g id="Group_13" data-name="Group 13" transform="translate(-261 -330)">
+    <g id="Group_8" data-name="Group 8" transform="translate(261 467.75)">
+      <g id="Rectangle_11" data-name="Rectangle 11" class="cls-1">
+        <rect class="cls-3" width="50.418" height="90.933" rx="5"/>
+        <rect class="cls-4" x="1" y="1" width="48.418" height="88.933" rx="4"/>
+      </g>
+      <g id="Rectangle_13" data-name="Rectangle 13" class="cls-1" transform="translate(0.9 7.203)">
+        <rect id="fill" class="cls-3" width="48.618" height="1.801" rx="0.9"/>
+        <path class="cls-5" d="M0,0.8006590604782104h48.617794036865234M47.617794036865234,0v1.8006590604782104M48.617794036865234,1h-48.617794036865234M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_14" data-name="Rectangle 14" class="cls-1" transform="translate(0.9 76.528)">
+        <rect id="fill-2" class="cls-3" width="48.618" height="1.801" rx="0.9"/>
+        <path class="cls-6" d="M0,0.8006590604782104h48.617794036865234M47.617794036865234,0v1.8006590604782104M48.617794036865234,1h-48.617794036865234M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_15" data-name="Rectangle 15" class="cls-1" transform="translate(6.302 42.315)">
+        <rect id="fill-3" class="cls-3" width="16.206" height="1.801" rx="0.9"/>
+        <path class="cls-7" d="M0,0.8006590604782104h16.205930709838867M15.205930709838867,0v1.8006590604782104M16.205930709838867,1h-16.205930709838867M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_21" data-name="Rectangle 21" class="cls-1" transform="translate(6.302 15.306)">
+        <rect class="cls-3" width="37.814" height="21.608" rx="3"/>
+        <rect class="cls-4" x="1" y="1" width="35.814" height="19.608" rx="2"/>
+      </g>
+      <g id="Rectangle_16" data-name="Rectangle 16" class="cls-1" transform="translate(6.302 47.717)">
+        <rect id="fill-4" class="cls-3" width="31.512" height="1.801" rx="0.9"/>
+        <path class="cls-8" d="M0,0.8006590604782104h31.511533737182617M30.511533737182617,0v1.8006590604782104M31.511533737182617,1h-31.511533737182617M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_17" data-name="Rectangle 17" class="cls-1" transform="translate(6.302 53.119)">
+        <rect id="fill-5" class="cls-3" width="27.91" height="1.801" rx="0.9"/>
+        <path class="cls-9" d="M0,0.8006590604782104h27.910215377807617M26.910215377807617,0v1.8006590604782104M27.910215377807617,1h-27.910215377807617M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_18" data-name="Rectangle 18" class="cls-1" transform="translate(6.302 58.521)">
+        <rect id="fill-6" class="cls-3" width="34.213" height="1.801" rx="0.9"/>
+        <path class="cls-10" d="M0,0.8006590604782104h34.212520599365234M33.212520599365234,0v1.8006590604782104M34.212520599365234,1h-34.212520599365234M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_19" data-name="Rectangle 19" class="cls-1" transform="translate(6.302 63.923)">
+        <rect id="fill-7" class="cls-3" width="20.708" height="1.801" rx="0.9"/>
+        <path class="cls-11" d="M0,0.8006590604782104h20.707578659057617M19.707578659057617,0v1.8006590604782104M20.707578659057617,1h-20.707578659057617M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_20" data-name="Rectangle 20" class="cls-1" transform="translate(6.302 69.325)">
+        <rect id="fill-8" class="cls-3" width="12.605" height="1.801" rx="0.9"/>
+        <path class="cls-12" d="M0,0.8006590604782104h12.604613304138184M11.604613304138184,0v1.8006590604782104M12.604613304138184,1h-12.604613304138184M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+    </g>
+    <g id="Group_10" data-name="Group 10" transform="translate(329.425 330)">
+      <g id="Rectangle_26" data-name="Rectangle 26" class="cls-1" transform="translate(260.195 211.577)">
+        <path class="cls-3" d="M13.414,0h0A13.414,13.414,0,0,1,26.829,13.414v.708a2.683,2.683,0,0,1-2.683,2.683H2.683A2.683,2.683,0,0,1,0,14.123v-.708A13.414,13.414,0,0,1,13.414,0Z"/>
+        <path class="cls-4" d="M13.414,1h0A12.414,12.414,0,0,1,25.829,13.414v.111a2.28,2.28,0,0,1-2.28,2.28H3.28A2.28,2.28,0,0,1,1,13.525v-.111A12.414,12.414,0,0,1,13.414,1Z"/>
+      </g>
+      <g id="Rectangle_25" data-name="Rectangle 25" class="cls-1" transform="translate(272.864 211.577)">
+        <rect id="fill-9" class="cls-3" width="1.49" height="9.103" rx="0.745"/>
+        <path class="cls-13" d="M0,1h1.4904929399490356M1,0v9.103043556213379M1.4904929399490356,8.103043556213379h-1.4904929399490356M0.49049293994903564,9.103043556213379v-9.103043556213379"/>
+      </g>
+      <g id="Rectangle_7" data-name="Rectangle 7" class="cls-1">
+        <rect class="cls-3" width="323.218" height="193.571" rx="10"/>
+        <rect class="cls-4" x="1" y="1" width="321.218" height="191.571" rx="9"/>
+      </g>
+      <g id="Rectangle_8" data-name="Rectangle 8" class="cls-1" transform="translate(116.143 214.278)">
+        <rect class="cls-3" width="90.033" height="14.405" rx="5"/>
+        <rect class="cls-4" x="1" y="1" width="88.033" height="12.405" rx="4"/>
+      </g>
+      <g id="Rectangle_10" data-name="Rectangle 10" class="cls-1" transform="translate(143.152 191.77)">
+        <rect class="cls-3" width="36.914" height="24.309"/>
+        <rect class="cls-4" x="1" y="1" width="34.914" height="22.309"/>
+      </g>
+      <g id="Rectangle_9" data-name="Rectangle 9" class="cls-1" transform="translate(12.605 11.704)">
+        <rect class="cls-3" width="297.109" height="171.063" rx="10"/>
+        <rect class="cls-4" x="1" y="1" width="295.109" height="169.063" rx="9"/>
+      </g>
+      <g id="Rectangle_22" data-name="Rectangle 22" class="cls-1" transform="translate(66.624 54.02)">
+        <rect class="cls-3" width="189.97" height="106.239" rx="5"/>
+        <rect class="cls-4" x="1" y="1" width="187.97" height="104.239" rx="4"/>
+      </g>
+      <g id="Rectangle_28" data-name="Rectangle 28" class="cls-1" transform="translate(67.525 64.824)">
+        <rect id="fill-10" class="cls-3" width="189.069" height="1.801" rx="0.9"/>
+        <path class="cls-14" d="M0,0.8006590604782104h189.06919860839844M188.06919860839844,0v1.8006590604782104M189.06919860839844,1h-189.06919860839844M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <path id="Path_2" data-name="Path 2" class="cls-1" d="M1021,327.1l4.5,4.363" transform="translate(-774.31 -268.996)"/>
+      <path id="Path_3" data-name="Path 3" class="cls-1" d="M0,0,4.845,3.982" transform="matrix(-0.105, 0.995, -0.995, -0.105, 251.173, 58.086)"/>
+      <g id="Ellipse_1" data-name="Ellipse 1" class="cls-1" transform="translate(95.435 83.731)">
+        <circle class="cls-3" cx="29.261" cy="29.261" r="29.261"/>
+        <circle class="cls-4" cx="29.261" cy="29.261" r="28.261"/>
+      </g>
+      <g id="Ellipse_2" data-name="Ellipse 2" class="cls-1" transform="translate(139.551 93.634)">
+        <circle class="cls-3" cx="19.357" cy="19.357" r="19.357"/>
+        <circle class="cls-4" cx="19.357" cy="19.357" r="18.357"/>
+      </g>
+    </g>
+    <g id="Group_9" data-name="Group 9" transform="translate(672.451 421.834)">
+      <g id="Group_2" data-name="Group 2">
+        <g id="Rectangle_1" data-name="Rectangle 1" class="cls-1" transform="translate(13.505)">
+          <rect class="cls-3" width="206.175" height="123.345" rx="10"/>
+          <rect class="cls-4" x="1" y="1" width="204.175" height="121.345" rx="9"/>
+        </g>
+        <g id="Rectangle_3" data-name="Rectangle 3" class="cls-1" transform="translate(0 121.544)">
+          <rect class="cls-3" width="232.285" height="15.306" rx="5"/>
+          <rect class="cls-4" x="1" y="1" width="230.285" height="13.306" rx="4"/>
+        </g>
+        <g id="Subtraction_1" data-name="Subtraction 1" class="cls-2" transform="translate(93.634 121.544)">
+          <path class="cls-3" d="M40.917,6.3H5a5.006,5.006,0,0,1-5-5V0H45.916V1.3A5.006,5.006,0,0,1,40.917,6.3Z"/>
+          <path class="cls-15" d="M 40.91670227050781 4.302700042724609 C 42.3305778503418 4.302700042724609 43.51911163330078 3.319074630737305 43.83433532714844 2 L 2.081865310668945 2 C 2.397091388702393 3.319074630737305 3.585625410079956 4.302700042724609 4.99950122833252 4.302700042724609 L 40.91670227050781 4.302700042724609 M 40.91670227050781 6.302700042724609 L 4.99950122833252 6.302700042724609 C 2.24277138710022 6.302700042724609 1.272582949241041e-06 4.059530258178711 1.272582949241041e-06 1.302299976348877 L 1.272582949241041e-06 2.136230392579819e-08 L 45.91620254516602 2.136230392579819e-08 L 45.91620254516602 1.302299976348877 C 45.91620254516602 4.059530258178711 43.67343139648438 6.302700042724609 40.91670227050781 6.302700042724609 Z"/>
+        </g>
+        <g id="Rectangle_4" data-name="Rectangle 4" class="cls-1" transform="translate(21.608 9.003)">
+          <rect class="cls-3" width="189.97" height="106.239" rx="5"/>
+          <rect class="cls-4" x="1" y="1" width="187.97" height="104.239" rx="4"/>
+        </g>
+      </g>
+      <g id="Rectangle_29" data-name="Rectangle 29" class="cls-1" transform="translate(65.724 44.116)">
+        <rect id="fill-11" class="cls-3" width="6.302" height="1.801" rx="0.9"/>
+        <path class="cls-16" d="M0,0.8006590604782104h6.302306652069092M5.302306652069092,0v1.8006590604782104M6.302306652069092,1h-6.302306652069092M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_33" data-name="Rectangle 33" class="cls-1" transform="translate(65.724 51.319)">
+        <rect id="fill-12" class="cls-3" width="6.302" height="1.801" rx="0.9"/>
+        <path class="cls-17" d="M0,0.8006590604782104h6.302306652069092M5.302306652069092,0v1.8006590604782104M6.302306652069092,1h-6.302306652069092M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_37" data-name="Rectangle 37" class="cls-1" transform="translate(65.724 58.521)">
+        <rect id="fill-13" class="cls-3" width="6.302" height="1.801" rx="0.9"/>
+        <path class="cls-18" d="M0,0.8006590604782104h6.302306652069092M5.302306652069092,0v1.8006590604782104M6.302306652069092,1h-6.302306652069092M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_41" data-name="Rectangle 41" class="cls-1" transform="translate(65.724 65.724)">
+        <rect id="fill-14" class="cls-3" width="6.302" height="1.801" rx="0.9"/>
+        <path class="cls-19" d="M0,0.8006590604782104h6.302306652069092M5.302306652069092,0v1.8006590604782104M6.302306652069092,1h-6.302306652069092M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_45" data-name="Rectangle 45" class="cls-1" transform="translate(65.724 72.927)">
+        <rect id="fill-15" class="cls-3" width="6.302" height="1.801" rx="0.9"/>
+        <path class="cls-20" d="M0,0.8006590604782104h6.302306652069092M5.302306652069092,0v1.8006590604782104M6.302306652069092,1h-6.302306652069092M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_49" data-name="Rectangle 49" class="cls-1" transform="translate(65.724 80.129)">
+        <rect id="fill-16" class="cls-3" width="6.302" height="1.801" rx="0.9"/>
+        <path class="cls-21" d="M0,0.8006590604782104h6.302306652069092M5.302306652069092,0v1.8006590604782104M6.302306652069092,1h-6.302306652069092M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_53" data-name="Rectangle 53" class="cls-1" transform="translate(65.724 87.332)">
+        <rect id="fill-17" class="cls-3" width="6.302" height="1.801" rx="0.9"/>
+        <path class="cls-22" d="M0,0.8006590604782104h6.302306652069092M5.302306652069092,0v1.8006590604782104M6.302306652069092,1h-6.302306652069092M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_30" data-name="Rectangle 30" class="cls-1" transform="translate(74.727 44.116)">
+        <rect id="fill-18" class="cls-3" width="40.515" height="1.801" rx="0.9"/>
+        <path class="cls-23" d="M0,0.8006590604782104h40.514827728271484M39.514827728271484,0v1.8006590604782104M40.514827728271484,1h-40.514827728271484M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_34" data-name="Rectangle 34" class="cls-1" transform="translate(74.727 51.319)">
+        <rect id="fill-19" class="cls-3" width="21.608" height="1.801" rx="0.9"/>
+        <path class="cls-24" d="M0,0.8006590604782104h21.607908248901367M20.607908248901367,0v1.8006590604782104M21.607908248901367,1h-21.607908248901367M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_38" data-name="Rectangle 38" class="cls-1" transform="translate(74.727 58.521)">
+        <rect id="fill-20" class="cls-3" width="28.811" height="1.801" rx="0.9"/>
+        <path class="cls-25" d="M0,0.8006590604782104h28.810544967651367M27.810544967651367,0v1.8006590604782104M28.810544967651367,1h-28.810544967651367M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_42" data-name="Rectangle 42" class="cls-1" transform="translate(74.727 65.724)">
+        <rect id="fill-21" class="cls-3" width="13.505" height="1.801" rx="0.9"/>
+        <path class="cls-26" d="M0,0.8006590604782104h13.504942893981934M12.504942893981934,0v1.8006590604782104M13.504942893981934,1h-13.504942893981934M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_46" data-name="Rectangle 46" class="cls-1" transform="translate(74.727 72.927)">
+        <rect id="fill-22" class="cls-3" width="30.611" height="1.801" rx="0.9"/>
+        <path class="cls-27" d="M0,0.8006590604782104h30.611204147338867M29.611204147338867,0v1.8006590604782104M30.611204147338867,1h-30.611204147338867M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_50" data-name="Rectangle 50" class="cls-1" transform="translate(74.727 80.129)">
+        <rect id="fill-23" class="cls-3" width="55.82" height="1.801" rx="0.9"/>
+        <path class="cls-28" d="M0,0.8006590604782104h55.820430755615234M54.820430755615234,0v1.8006590604782104M55.820430755615234,1h-55.820430755615234M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_54" data-name="Rectangle 54" class="cls-1" transform="translate(74.727 87.332)">
+        <rect id="fill-24" class="cls-3" width="25.209" height="1.801" rx="0.9"/>
+        <path class="cls-29" d="M0,0.8006590604782104h25.209226608276367M24.209226608276367,0v1.8006590604782104M25.209226608276367,1h-25.209226608276367M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_31" data-name="Rectangle 31" class="cls-1" transform="translate(118.843 44.116)">
+        <rect id="fill-25" class="cls-3" width="18.007" height="1.801" rx="0.9"/>
+        <path class="cls-30" d="M0,0.8006590604782104h18.006589889526367M17.006589889526367,0v1.8006590604782104M18.006589889526367,1h-18.006589889526367M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_35" data-name="Rectangle 35" class="cls-1" transform="translate(99.937 51.319)">
+        <rect id="fill-26" class="cls-3" width="26.11" height="1.801" rx="0.9"/>
+        <path class="cls-31" d="M0,0.8006590604782104h26.109556198120117M25.109556198120117,0v1.8006590604782104M26.109556198120117,1h-26.109556198120117M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_39" data-name="Rectangle 39" class="cls-1" transform="translate(107.139 58.521)">
+        <rect id="fill-27" class="cls-3" width="9.904" height="1.801" rx="0.9"/>
+        <path class="cls-32" d="M0,0.8006590604782104h9.903624534606934M8.903624534606934,0v1.8006590604782104M9.903624534606934,1h-9.903624534606934M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_43" data-name="Rectangle 43" class="cls-1" transform="translate(91.834 65.724)">
+        <rect id="fill-28" class="cls-3" width="11.704" height="1.801" rx="0.9"/>
+        <path class="cls-33" d="M0,0.8006590604782104h11.704283714294434M10.704283714294434,0v1.8006590604782104M11.704283714294434,1h-11.704283714294434M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_47" data-name="Rectangle 47" class="cls-1" transform="translate(108.94 72.927)">
+        <rect id="fill-29" class="cls-3" width="18.007" height="1.801" rx="0.9"/>
+        <path class="cls-34" d="M0,0.8006590604782104h18.006589889526367M17.006589889526367,0v1.8006590604782104M18.006589889526367,1h-18.006589889526367M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_55" data-name="Rectangle 55" class="cls-1" transform="translate(103.538 87.332)">
+        <rect id="fill-30" class="cls-3" width="9.003" height="1.801" rx="0.9"/>
+        <path class="cls-35" d="M0,0.8006590604782104h9.003294944763184M8.003294944763184,0v1.8006590604782104M9.003294944763184,1h-9.003294944763184M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_32" data-name="Rectangle 32" class="cls-1" transform="translate(140.451 44.116)">
+        <rect id="fill-31" class="cls-3" width="22.508" height="1.801" rx="0.9"/>
+        <path class="cls-36" d="M0,0.8006590604782104h22.508237838745117M21.508237838745117,0v1.8006590604782104M22.508237838745117,1h-22.508237838745117M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_36" data-name="Rectangle 36" class="cls-1" transform="translate(129.647 51.319)">
+        <rect id="fill-32" class="cls-3" width="10.804" height="1.801" rx="0.9"/>
+        <path class="cls-37" d="M0,0.8006590604782104h10.803954124450684M9.803954124450684,0v1.8006590604782104M10.803954124450684,1h-10.803954124450684M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_44" data-name="Rectangle 44" class="cls-1" transform="translate(107.139 65.724)">
+        <rect id="fill-33" class="cls-3" width="21.608" height="1.801" rx="0.9"/>
+        <path class="cls-38" d="M0,0.8006590604782104h21.607908248901367M20.607908248901367,0v1.8006590604782104M21.607908248901367,1h-21.607908248901367M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_57" data-name="Rectangle 57" class="cls-1" transform="translate(132.348 65.724)">
+        <rect id="fill-34" class="cls-3" width="5.402" height="1.801" rx="0.9"/>
+        <path class="cls-39" d="M0,0.8006590604782104h5.401977062225342M4.401977062225342,0v1.8006590604782104M5.401977062225342,1h-5.401977062225342M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_48" data-name="Rectangle 48" class="cls-1" transform="translate(130.548 72.927)">
+        <rect id="fill-35" class="cls-3" width="20.708" height="1.801" rx="0.9"/>
+        <path class="cls-40" d="M0,0.8006590604782104h20.707578659057617M19.707578659057617,0v1.8006590604782104M20.707578659057617,1h-20.707578659057617M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_52" data-name="Rectangle 52" class="cls-1" transform="translate(134.149 80.129)">
+        <rect id="fill-36" class="cls-3" width="13.505" height="1.801" rx="0.9"/>
+        <path class="cls-41" d="M0,0.8006590604782104h13.504942893981934M12.504942893981934,0v1.8006590604782104M13.504942893981934,1h-13.504942893981934M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_56" data-name="Rectangle 56" class="cls-1" transform="translate(116.143 87.332)">
+        <rect id="fill-37" class="cls-3" width="19.807" height="1.801" rx="0.9"/>
+        <path class="cls-42" d="M0,0.8006590604782104h19.807249069213867M18.807249069213867,0v1.8006590604782104M19.807249069213867,1h-19.807249069213867M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_58" data-name="Rectangle 58" class="cls-1" transform="translate(139.551 87.332)">
+        <rect id="fill-38" class="cls-3" width="17.106" height="1.801" rx="0.9"/>
+        <path class="cls-43" d="M0,0.8006590604782104h17.106260299682617M16.106260299682617,0v1.8006590604782104M17.106260299682617,1h-17.106260299682617M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Group_7" data-name="Group 7" transform="translate(55.82 28.811)">
+        <g id="Rectangle_22-2" data-name="Rectangle 22" class="cls-1" transform="translate(0 0)">
+          <rect class="cls-3" width="121.544" height="67.973" rx="5"/>
+          <rect class="cls-4" x="1" y="1" width="119.544" height="65.973" rx="4"/>
+        </g>
+        <g id="Rectangle_28-2" data-name="Rectangle 28" class="cls-1" transform="translate(0.576 6.912)">
+          <rect id="fill-39" class="cls-3" width="120.968" height="1.801" rx="0.9"/>
+          <path class="cls-44" d="M0,0.8006590604782104h120.96843719482422M119.96843719482422,0v1.8006590604782104M120.96843719482422,1h-120.96843719482422M1,1.8006590604782104v-1.8006590604782104"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_12" data-name="Group 12" transform="translate(941.649 496.561)">
+      <g id="Rectangle_59" data-name="Rectangle 59" class="cls-1">
+        <path class="cls-3" d="M5,0H40.016a5,5,0,0,1,5,5V52.123a10,10,0,0,1-10,10H10a10,10,0,0,1-10-10V5A5,5,0,0,1,5,0Z"/>
+        <path class="cls-4" d="M5,1H40.016a4,4,0,0,1,4,4V52.123a9,9,0,0,1-9,9H10a9,9,0,0,1-9-9V5A4,4,0,0,1,5,1Z"/>
+      </g>
+      <g id="Group_11" data-name="Group 11" transform="translate(43.472 13.505)">
+        <g id="Rectangle_60" data-name="Rectangle 60" class="cls-1" transform="translate(0 3.601)">
+          <path class="cls-3" d="M0,0H4.17a7,7,0,0,1,7,7V20.01a7,7,0,0,1-7,7H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z"/>
+          <path class="cls-4" d="M2,1H4.17a6,6,0,0,1,6,6V20.01a6,6,0,0,1-6,6H2a1,1,0,0,1-1-1V2A1,1,0,0,1,2,1Z"/>
+        </g>
+        <g id="Rectangle_61" data-name="Rectangle 61" class="cls-1" transform="translate(0 0)">
+          <path class="cls-3" d="M0,0H4.149a10,10,0,0,1,10,10V24.213a10,10,0,0,1-10,10H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z"/>
+          <path class="cls-4" d="M2,1H4.149a9,9,0,0,1,9,9V24.213a9,9,0,0,1-9,9H2a1,1,0,0,1-1-1V2A1,1,0,0,1,2,1Z"/>
+        </g>
+      </g>
+      <g id="Rectangle_62" data-name="Rectangle 62" class="cls-1" transform="translate(38.264 12.154) rotate(90)">
+        <rect id="fill-40" class="cls-3" width="31.512" height="1.801" rx="0.9"/>
+        <path class="cls-45" d="M0,0.8006590604782104h31.511533737182617M30.511533737182617,0v1.8006590604782104M31.511533737182617,1h-31.511533737182617M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+      <g id="Rectangle_63" data-name="Rectangle 63" class="cls-1" transform="translate(38.264 45.467) rotate(90)">
+        <rect id="fill-41" class="cls-3" width="4.502" height="1.801" rx="0.9"/>
+        <path class="cls-46" d="M0,0.8006590604782104h4.501647472381592M3.501647472381592,0v1.8006590604782104M4.501647472381592,1h-4.501647472381592M1,1.8006590604782104v-1.8006590604782104"/>
+      </g>
+    </g>
+  </g>
+</svg>
