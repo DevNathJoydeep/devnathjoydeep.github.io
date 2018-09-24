@@ -1,15 +1,15 @@
-/* line 1, ../sass/main.scss */
+/* line 1, ../sass/main - Copy (2).scss */
 html {
   padding: 0;
 }
 
-/* line 4, ../sass/main.scss */
+/* line 4, ../sass/main - Copy (2).scss */
 body {
   padding: 0;
   margin: 0;
 }
 
-/* line 8, ../sass/main.scss */
+/* line 8, ../sass/main - Copy (2).scss */
 a,
 a:focus,
 a:active,
@@ -20,55 +20,55 @@ a:hover {
   color: inherit;
 }
 
-/* line 17, ../sass/main.scss */
+/* line 17, ../sass/main - Copy (2).scss */
 .preloadGreenHeader {
   background: url("../images/heroBgGreen.svg") no-repeat -9999px -9999px;
 }
 
-/* line 20, ../sass/main.scss */
+/* line 20, ../sass/main - Copy (2).scss */
 .preloadGreenFooter {
   background: url("../images/footerBgGreen.svg") no-repeat -9999px -9999px;
 }
 
-/* line 23, ../sass/main.scss */
+/* line 23, ../sass/main - Copy (2).scss */
 .desk {
   display: none;
 }
 
-/* line 26, ../sass/main.scss */
+/* line 26, ../sass/main - Copy (2).scss */
 .container {
   user-select: none;
 }
-/* line 28, ../sass/main.scss */
+/* line 28, ../sass/main - Copy (2).scss */
 .container h2 {
   margin: 0;
   font-size: 24px;
   font-weight: 600;
   line-height: 26px;
 }
-/* line 34, ../sass/main.scss */
+/* line 34, ../sass/main - Copy (2).scss */
 .container h3 {
   margin: 0;
   font-size: 20px;
   font-weight: 600;
 }
-/* line 39, ../sass/main.scss */
+/* line 39, ../sass/main - Copy (2).scss */
 .container .sectionDesc {
   margin-top: 10px;
   color: #636363;
   text-align: center;
   font-weight: 400;
 }
-/* line 45, ../sass/main.scss */
+/* line 45, ../sass/main - Copy (2).scss */
 .container .white {
   color: white;
 }
-/* line 48, ../sass/main.scss */
+/* line 48, ../sass/main - Copy (2).scss */
 .container .violet {
   color: #6a36ff;
   transition: all 500ms ease-in-out;
 }
-/* line 52, ../sass/main.scss */
+/* line 52, ../sass/main - Copy (2).scss */
 .container .hero {
   text-align: center;
   font-family: "Source Sans Pro", sans-serif;
@@ -80,18 +80,18 @@ a:hover {
   background-position: bottom left;
   transition: all 500ms ease-in-out;
 }
-/* line 62, ../sass/main.scss */
+/* line 62, ../sass/main - Copy (2).scss */
 .container .hero .nav {
   overflow: hidden;
 }
-/* line 64, ../sass/main.scss */
+/* line 64, ../sass/main - Copy (2).scss */
 .container .hero .nav .navLeft {
   width: 49.35%;
   vertical-align: middle;
   display: inline-block;
   text-align: left;
 }
-/* line 69, ../sass/main.scss */
+/* line 69, ../sass/main - Copy (2).scss */
 .container .hero .nav .navLeft .changeTheme {
   width: 32px;
   margin: 0;
@@ -99,14 +99,14 @@ a:hover {
   display: inline-block;
   cursor: pointer;
 }
-/* line 77, ../sass/main.scss */
+/* line 77, ../sass/main - Copy (2).scss */
 .container .hero .nav .navRight {
   width: 49.35%;
   vertical-align: middle;
   display: inline-block;
   text-align: right;
 }
-/* line 82, ../sass/main.scss */
+/* line 82, ../sass/main - Copy (2).scss */
 .container .hero .nav .navRight .btnSmall {
   color: white;
   border: 1px solid white;
@@ -118,45 +118,45 @@ a:hover {
   cursor: pointer;
   transition: all 300ms ease-in-out;
 }
-/* line 92, ../sass/main.scss */
+/* line 92, ../sass/main - Copy (2).scss */
 .container .hero .nav .navRight .btnSmall:hover {
   background: white;
   color: #5954ff;
   box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
 }
-/* line 101, ../sass/main.scss */
+/* line 101, ../sass/main - Copy (2).scss */
 .container .hero .text h1 {
   margin: 40px 0 0 0;
   font-size: 30px;
   font-weight: 600;
 }
-/* line 107, ../sass/main.scss */
+/* line 107, ../sass/main - Copy (2).scss */
 .container .hero .text h4 {
   margin: -5px 0 0 0;
   font-size: 14px;
   font-weight: 400;
 }
-/* line 113, ../sass/main.scss */
+/* line 113, ../sass/main - Copy (2).scss */
 .container .hero .heroImgContainer {
   text-align: center;
   margin: 30px 0 20px 0;
 }
-/* line 116, ../sass/main.scss */
+/* line 116, ../sass/main - Copy (2).scss */
 .container .hero .heroImgContainer .heroImg {
   width: 85%;
 }
-/* line 120, ../sass/main.scss */
+/* line 120, ../sass/main - Copy (2).scss */
 .container .hero .desc {
   font-size: 16px;
   font-weight: 300;
 }
-/* line 125, ../sass/main.scss */
+/* line 125, ../sass/main - Copy (2).scss */
 .container .aboutMe {
   font-family: "Source Sans Pro", sans-serif;
   text-align: center;
   padding: 60px 30px 20px 30px;
 }
-/* line 129, ../sass/main.scss */
+/* line 129, ../sass/main - Copy (2).scss */
 .container .aboutMe .skillBox {
   color: #7a7a7a;
   box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
@@ -164,69 +164,69 @@ a:hover {
   border-radius: 8px;
   padding: 10px 40px;
 }
-/* line 135, ../sass/main.scss */
+/* line 135, ../sass/main - Copy (2).scss */
 .container .aboutMe .skillBox .box {
   border-bottom: 1px solid #eeeeee;
   padding: 20px;
 }
-/* line 138, ../sass/main.scss */
+/* line 138, ../sass/main - Copy (2).scss */
 .container .aboutMe .skillBox .box:last-of-type {
   border-bottom: 0;
 }
-/* line 141, ../sass/main.scss */
+/* line 141, ../sass/main - Copy (2).scss */
 .container .aboutMe .skillBox .box i {
   color: #6a36ff;
   font-size: 24px;
   margin-bottom: 5px;
   transition: all 500ms ease-in-out;
 }
-/* line 147, ../sass/main.scss */
+/* line 147, ../sass/main - Copy (2).scss */
 .container .aboutMe .skillBox .box h3 {
   margin-bottom: 10px;
 }
-/* line 150, ../sass/main.scss */
+/* line 150, ../sass/main - Copy (2).scss */
 .container .aboutMe .skillBox .box ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
-/* line 155, ../sass/main.scss */
+/* line 155, ../sass/main - Copy (2).scss */
 .container .aboutMe .skillBox .box li {
   padding: 0;
 }
-/* line 161, ../sass/main.scss */
+/* line 161, ../sass/main - Copy (2).scss */
 .container .recentWork {
   font-family: "Source Sans Pro", sans-serif;
   text-align: center;
   padding: 60px 30px 90px 30px;
 }
-/* line 165, ../sass/main.scss */
+/* line 165, ../sass/main - Copy (2).scss */
 .container .recentWork .workBoxContainer {
   margin-top: 25px;
 }
-/* line 168, ../sass/main.scss */
-.container .recentWork .workBoxContainer .workBoxGrid:last-of-type .workBox {
-  margin-bottom: 0;
-}
-/* line 171, ../sass/main.scss */
-.container .recentWork .workBoxContainer .workBoxGrid .workBox {
+/* line 167, ../sass/main - Copy (2).scss */
+.container .recentWork .workBoxContainer .workBox {
   box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
   overflow: hidden;
   margin-bottom: 20px;
   position: relative;
 }
-/* line 177, ../sass/main.scss */
-.container .recentWork .workBoxContainer .workBoxGrid .workBox:hover .workDesc {
+/* line 173, ../sass/main - Copy (2).scss */
+.container .recentWork .workBoxContainer .workBox:last-of-type {
+  margin-bottom: 0;
+}
+/* line 176, ../sass/main - Copy (2).scss */
+.container .recentWork .workBoxContainer .workBox:hover .workDesc {
   opacity: 1;
 }
-/* line 180, ../sass/main.scss */
-.container .recentWork .workBoxContainer .workBoxGrid .workBox .workImg {
+/* line 179, ../sass/main - Copy (2).scss */
+.container .recentWork .workBoxContainer .workBox .workImg {
   display: block;
   width: 100%;
 }
-/* line 184, ../sass/main.scss */
-.container .recentWork .workBoxContainer .workBoxGrid .workBox .workDesc {
+/* line 183, ../sass/main - Copy (2).scss */
+.container .recentWork .workBoxContainer .workBox .workDesc {
   opacity: 0;
   position: absolute;
   top: 0;
@@ -239,28 +239,28 @@ a:hover {
   color: white;
   transition: all 300ms ease-in-out;
 }
-/* line 196, ../sass/main.scss */
-.container .recentWork .workBoxContainer .workBoxGrid .workBox .workDesc .middle {
+/* line 195, ../sass/main - Copy (2).scss */
+.container .recentWork .workBoxContainer .workBox .workDesc .middle {
   width: 100%;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
-/* line 202, ../sass/main.scss */
-.container .recentWork .workBoxContainer .workBoxGrid .workBox .workDesc .middle .name {
+/* line 201, ../sass/main - Copy (2).scss */
+.container .recentWork .workBoxContainer .workBox .workDesc .middle .name {
   margin-top: -8px;
   font-size: 24px;
   font-weight: 600;
 }
-/* line 207, ../sass/main.scss */
-.container .recentWork .workBoxContainer .workBoxGrid .workBox .workDesc .middle .tech {
+/* line 206, ../sass/main - Copy (2).scss */
+.container .recentWork .workBoxContainer .workBox .workDesc .middle .tech {
   padding: 0 25px;
   margin: 8px 0 16px 0;
   font-size: 14px;
 }
-/* line 212, ../sass/main.scss */
-.container .recentWork .workBoxContainer .workBoxGrid .workBox .workDesc .middle .workButton {
+/* line 211, ../sass/main - Copy (2).scss */
+.container .recentWork .workBoxContainer .workBox .workDesc .middle .workButton {
   color: #6a36ff;
   border: 0;
   padding: 8px 30px;
@@ -271,26 +271,24 @@ a:hover {
   cursor: pointer;
   box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
 }
-/* line 229, ../sass/main.scss */
+/* line 227, ../sass/main - Copy (2).scss */
 .container .myResumeContainer {
   z-index: 999;
   position: relative;
-  margin: 0 30px;
-  box-sizing: border-box;
 }
-/* line 234, ../sass/main.scss */
+/* line 230, ../sass/main - Copy (2).scss */
 .container .myResumeContainer .myResume {
   position: absolute;
-  box-sizing: border-box;
   font-family: "Source Sans Pro", sans-serif;
   border-radius: 8px;
   text-align: center;
+  margin: 0 30px;
   background: #3b2f61;
   box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
   padding: 30px;
   transition: all 500ms ease-in-out;
 }
-/* line 244, ../sass/main.scss */
+/* line 240, ../sass/main - Copy (2).scss */
 .container .myResumeContainer .myResume .resumeButton {
   color: white;
   border: 1px solid white;
@@ -303,13 +301,13 @@ a:hover {
   cursor: pointer;
   transition: all 300ms ease-in-out;
 }
-/* line 255, ../sass/main.scss */
+/* line 251, ../sass/main - Copy (2).scss */
 .container .myResumeContainer .myResume .resumeButton:hover {
   background: white;
   color: #3b2f61;
   box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
 }
-/* line 263, ../sass/main.scss */
+/* line 259, ../sass/main - Copy (2).scss */
 .container .footer {
   margin-top: 75px;
   text-align: center;
@@ -322,12 +320,12 @@ a:hover {
   background-position: top right;
   transition: all 500ms ease-in-out;
 }
-/* line 274, ../sass/main.scss */
+/* line 270, ../sass/main - Copy (2).scss */
 .container .footer .getInTouch {
   padding-bottom: 60px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
-/* line 277, ../sass/main.scss */
+/* line 273, ../sass/main - Copy (2).scss */
 .container .footer .getInTouch .btnLarge {
   color: white;
   border: 1px solid white;
@@ -340,17 +338,17 @@ a:hover {
   cursor: pointer;
   transition: all 300ms ease-in-out;
 }
-/* line 288, ../sass/main.scss */
+/* line 284, ../sass/main - Copy (2).scss */
 .container .footer .getInTouch .btnLarge:hover {
   background: white;
   color: #5954ff;
   box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
 }
-/* line 295, ../sass/main.scss */
+/* line 291, ../sass/main - Copy (2).scss */
 .container .footer .social {
   margin-top: 30px;
 }
-/* line 297, ../sass/main.scss */
+/* line 293, ../sass/main - Copy (2).scss */
 .container .footer .social i {
   cursor: pointer;
   display: inline-block;
@@ -366,61 +364,61 @@ a:hover {
   margin: 0 0.25em;
   transition: all 300ms ease-in-out;
 }
-/* line 311, ../sass/main.scss */
+/* line 307, ../sass/main - Copy (2).scss */
 .container .footer .social i:hover {
   background: rgba(255, 255, 255, 0.1);
 }
-/* line 316, ../sass/main.scss */
+/* line 312, ../sass/main - Copy (2).scss */
 .container .footer .copyright {
   font-weight: 300;
   margin-top: 20px;
 }
-/* line 319, ../sass/main.scss */
+/* line 315, ../sass/main - Copy (2).scss */
 .container .footer .copyright .text {
   display: inline-block;
   vertical-align: middle;
 }
-/* line 323, ../sass/main.scss */
+/* line 319, ../sass/main - Copy (2).scss */
 .container .footer .copyright .copy {
   font-size: 28px;
   display: inline-block;
   vertical-align: middle;
 }
-/* line 328, ../sass/main.scss */
+/* line 324, ../sass/main - Copy (2).scss */
 .container .footer .copyright .source {
   margin-top: -5px;
 }
 
 @media only screen and (min-width: 360px) {
-  /* line 339, ../sass/main.scss */
+  /* line 335, ../sass/main - Copy (2).scss */
   .container .hero .text h1 {
     font-size: 32px;
   }
-  /* line 342, ../sass/main.scss */
+  /* line 338, ../sass/main - Copy (2).scss */
   .container .hero .text h4 {
     font-size: 16px;
   }
 }
 @media only screen and (min-width: 480px) {
-  /* line 353, ../sass/main.scss */
+  /* line 349, ../sass/main - Copy (2).scss */
   .container .hero .heroImgContainer .heroImg {
     width: 70%;
   }
 }
 @media only screen and (min-width: 600px) {
-  /* line 362, ../sass/main.scss */
+  /* line 358, ../sass/main - Copy (2).scss */
   .container .hero {
     padding: 30px 60px 60px 60px;
   }
-  /* line 365, ../sass/main.scss */
+  /* line 361, ../sass/main - Copy (2).scss */
   .container .aboutMe {
     padding: 60px 60px 20px 60px;
   }
-  /* line 367, ../sass/main.scss */
+  /* line 363, ../sass/main - Copy (2).scss */
   .container .aboutMe .skillBox {
     padding: 20px 10px;
   }
-  /* line 369, ../sass/main.scss */
+  /* line 365, ../sass/main - Copy (2).scss */
   .container .aboutMe .skillBox .box {
     display: inline-block;
     width: 32.5%;
@@ -428,96 +426,64 @@ a:hover {
     box-sizing: border-box;
     padding: 10px 20px;
   }
-  /* line 375, ../sass/main.scss */
+  /* line 371, ../sass/main - Copy (2).scss */
   .container .aboutMe .skillBox .box:first-of-type {
     border-right: 1px solid #eeeeee;
   }
-  /* line 378, ../sass/main.scss */
+  /* line 374, ../sass/main - Copy (2).scss */
   .container .aboutMe .skillBox .box:last-of-type {
     border-left: 1px solid #eeeeee;
   }
-  /* line 381, ../sass/main.scss */
+  /* line 377, ../sass/main - Copy (2).scss */
   .container .aboutMe .skillBox .box i {
     font-size: 20px;
   }
-  /* line 387, ../sass/main.scss */
+  /* line 383, ../sass/main - Copy (2).scss */
   .container .recentWork {
     padding: 60px 60px 90px 60px;
   }
-  /* line 390, ../sass/main.scss */
-  .container .myResumeContainer {
+  /* line 387, ../sass/main - Copy (2).scss */
+  .container .myResumeContainer .myResume {
     margin: 0 60px;
   }
-  /* line 393, ../sass/main.scss */
+  /* line 391, ../sass/main - Copy (2).scss */
   .container .footer {
     padding: 210px 60px 30px 60px;
   }
 }
 @media only screen and (min-width: 720px) {
-  /* line 400, ../sass/main.scss */
+  /* line 398, ../sass/main - Copy (2).scss */
   .container .hero {
     padding-bottom: 120px;
   }
-  /* line 404, ../sass/main.scss */
+  /* line 402, ../sass/main - Copy (2).scss */
   .container .hero .nav .navLeft .changeTheme {
     width: 36px;
   }
-  /* line 409, ../sass/main.scss */
+  /* line 407, ../sass/main - Copy (2).scss */
   .container .hero .nav .navRight .btnSmall {
     font-size: 18px;
     padding: 5px 30px;
     border: 2px solid white;
   }
-  /* line 417, ../sass/main.scss */
+  /* line 415, ../sass/main - Copy (2).scss */
   .container .hero .text h1 {
     margin: 70px 0 0 0;
     font-size: 42px;
   }
-  /* line 421, ../sass/main.scss */
+  /* line 419, ../sass/main - Copy (2).scss */
   .container .hero .text h4 {
     font-size: 20px;
   }
-  /* line 425, ../sass/main.scss */
+  /* line 423, ../sass/main - Copy (2).scss */
   .container .hero .heroImgContainer {
     margin: 40px 0 30px 0;
   }
-  /* line 428, ../sass/main.scss */
+  /* line 426, ../sass/main - Copy (2).scss */
   .container .hero .desc {
     font-size: 18px;
   }
-  /* line 433, ../sass/main.scss */
-  .container .recentWork .workBoxContainer {
-    font-size: 0;
-  }
-  /* line 435, ../sass/main.scss */
-  .container .recentWork .workBoxContainer .workBoxGrid {
-    width: 50%;
-    display: inline-block;
-    box-sizing: border-box;
-  }
-  /* line 439, ../sass/main.scss */
-  .container .recentWork .workBoxContainer .workBoxGrid:nth-of-type(1), .container .recentWork .workBoxContainer .workBoxGrid:nth-of-type(2) {
-    padding-bottom: 15px;
-  }
-  /* line 443, ../sass/main.scss */
-  .container .recentWork .workBoxContainer .workBoxGrid:nth-of-type(5), .container .recentWork .workBoxContainer .workBoxGrid:nth-of-type(6) {
-    padding-top: 15px;
-  }
-  /* line 447, ../sass/main.scss */
-  .container .recentWork .workBoxContainer .workBoxGrid:nth-of-type(even) .workBox {
-    position: relative;
-    margin-left: 2%;
-  }
-  /* line 451, ../sass/main.scss */
-  .container .recentWork .workBoxContainer .workBoxGrid .workBox {
-    width: 98%;
-    margin-bottom: 0;
-  }
-  /* line 459, ../sass/main.scss */
-  .container .myResumeContainer .myResume {
-    width: 100%;
-  }
-  /* line 463, ../sass/main.scss */
+  /* line 430, ../sass/main - Copy (2).scss */
   .container .footer {
     margin-top: 40px;
   }
