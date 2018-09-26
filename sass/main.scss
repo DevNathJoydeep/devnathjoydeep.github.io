@@ -1,9 +1,18 @@
 html {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
   padding: 0;
 }
 body {
   padding: 0;
   margin: 0;
+}
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
 }
 a,
 a:focus,
@@ -11,6 +20,7 @@ a:active,
 a:visited,
 a:hover {
   text-decoration: underline;
+  -webkit-text-decoration-style: dotted;
   text-decoration-style: dotted;
   color: inherit;
 }
@@ -27,7 +37,6 @@ a:hover {
   display: none;
 }
 .container {
-  user-select: none;
   h2 {
     margin: 0;
     font-size: 24px;
@@ -50,6 +59,7 @@ a:hover {
   }
   .violet {
     color: #6a36ff;
+    -webkit-transition: all 500ms ease-in-out;
     transition: all 500ms ease-in-out;
   }
   .hero {
@@ -61,6 +71,7 @@ a:hover {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom left;
+    -webkit-transition: all 500ms ease-in-out;
     transition: all 500ms ease-in-out;
     .nav {
       overflow: hidden;
@@ -91,10 +102,12 @@ a:hover {
           font-family: "Source Sans Pro", sans-serif;
           font-size: 16px;
           cursor: pointer;
+          -webkit-transition: all 300ms ease-in-out;
           transition: all 300ms ease-in-out;
           &:hover {
             background: white;
             color: #5954ff;
+            -webkit-box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
             box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
           }
         }
@@ -131,6 +144,7 @@ a:hover {
     padding: 60px 30px 20px 30px;
     .skillBox {
       color: #7a7a7a;
+      -webkit-box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
       box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
       margin-top: 25px;
       border-radius: 8px;
@@ -145,6 +159,7 @@ a:hover {
           color: #6a36ff;
           font-size: 24px;
           margin-bottom: 5px;
+          -webkit-transition: all 500ms ease-in-out;
           transition: all 500ms ease-in-out;
         }
         h3 {
@@ -172,6 +187,7 @@ a:hover {
           margin-bottom: 0;
         }
         .workBox {
+          -webkit-box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
           box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
           border-radius: 8px;
           overflow: hidden;
@@ -180,27 +196,34 @@ a:hover {
           &:hover .workDesc {
             opacity: 1;
           }
+          &:hover .workImg {
+            transform: scale(1.1);
+          }
           .workImg {
             display: block;
             width: 100%;
+            transition: all 300ms ease-in-out;
           }
           .workDesc {
             opacity: 0;
             position: absolute;
             top: 0;
             left: 0;
+            -webkit-box-sizing: border-box;
             box-sizing: border-box;
             overflow: hidden;
             width: 100%;
             height: 100%;
             background: rgba(106, 54, 255, 0.85);
             color: white;
+            -webkit-transition: all 300ms ease-in-out;
             transition: all 300ms ease-in-out;
             .middle {
               width: 100%;
               position: absolute;
               top: 50%;
               left: 50%;
+              -webkit-transform: translate(-50%, -50%);
               transform: translate(-50%, -50%);
               .name {
                 margin-top: -8px;
@@ -221,6 +244,7 @@ a:hover {
                 font-family: "Source Sans Pro", sans-serif;
                 font-size: 16px;
                 cursor: pointer;
+                -webkit-box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
                 box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
               }
             }
@@ -230,19 +254,23 @@ a:hover {
     }
   }
   .myResumeContainer {
-    z-index: 999;
+    z-index: 2;
     position: relative;
     margin: 0 30px;
+    -webkit-box-sizing: border-box;
     box-sizing: border-box;
     .myResume {
       position: absolute;
+      -webkit-box-sizing: border-box;
       box-sizing: border-box;
       font-family: "Source Sans Pro", sans-serif;
       border-radius: 8px;
       text-align: center;
       background: #3b2f61;
+      -webkit-box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
       box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
       padding: 30px;
+      -webkit-transition: all 500ms ease-in-out;
       transition: all 500ms ease-in-out;
       .resumeButton {
         color: white;
@@ -254,10 +282,12 @@ a:hover {
         font-size: 16px;
         margin-top: 16px;
         cursor: pointer;
+        -webkit-transition: all 300ms ease-in-out;
         transition: all 300ms ease-in-out;
         &:hover {
           background: white;
           color: #3b2f61;
+          -webkit-box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
           box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
         }
       }
@@ -273,6 +303,7 @@ a:hover {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top right;
+    -webkit-transition: all 500ms ease-in-out;
     transition: all 500ms ease-in-out;
     .getInTouch {
       padding-bottom: 60px;
@@ -287,16 +318,21 @@ a:hover {
         font-size: 20px;
         margin-top: 20px;
         cursor: pointer;
+        -webkit-transition: all 300ms ease-in-out;
         transition: all 300ms ease-in-out;
         &:hover {
           background: white;
           color: #5954ff;
+          -webkit-box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
           box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
         }
       }
     }
     .social {
       margin-top: 30px;
+      .iconLinks {
+        text-decoration: none;
+      }
       i {
         cursor: pointer;
         display: inline-block;
@@ -310,6 +346,7 @@ a:hover {
         width: 32px;
         height: 32px;
         margin: 0 0.25em;
+        -webkit-transition: all 300ms ease-in-out;
         transition: all 300ms ease-in-out;
         &:hover {
           background: rgba(255, 255, 255, 0.1);
@@ -330,10 +367,123 @@ a:hover {
       }
       .source {
         margin-top: -5px;
+        display: none;
       }
     }
   }
 }
+
+//----------------------------------------------------
+
+.getInTouchForm {
+  background: white;
+  position: fixed;
+  z-index: 3;
+  left: 50%;
+  top: 50%;
+  width: 0%;
+  height: 0%;
+  overflow: auto;
+  transition: all 300ms ease-in-out;
+  box-sizing: border-box;
+  .formContainer {
+    background: white;
+    margin: 0;
+    padding: 15px 30px 25px 30px;
+    width: 100%;
+    min-height: 100%;
+    height: auto;
+    box-sizing: border-box;
+    .formContent {
+      margin-top: 0px;
+      font-family: "Source Sans Pro", sans-serif;
+      .formHeading {
+        font-size: 24px;
+        font-weight: 700;
+        color: #6a36ff;
+        text-align: center;
+      }
+      .formDesc {
+        margin-top: 5px;
+        margin-bottom: 15px;
+        font-size: 16px;
+        color: #636363;
+        text-align: center;
+        font-weight: 400;
+      }
+      .fontZero {
+        .formElem {
+          &:first-of-type .labels {
+            margin-top: 0;
+          }
+          .labels {
+            display: block;
+            font-size: 16px;
+            font-weight: 600;
+            color: #6a36ff;
+            margin-top: 10px;
+            margin-bottom: 1px;
+          }
+
+          .inputs {
+            display: block;
+            font-size: 16px;
+            font-family: "Source Sans Pro", sans-serif;
+            font-weight: 400;
+            color: #636363;
+            border: 1px solid #c5c5c5;
+            border-radius: 3px;
+            width: 100%;
+            padding: 6px;
+            box-sizing: border-box;
+          }
+
+          .txtarea {
+            resize: none;
+            display: block;
+            font-size: 16px;
+            font-family: "Source Sans Pro", sans-serif;
+            font-weight: 400;
+            color: #636363;
+            border: 1px solid #c5c5c5;
+            border-radius: 3px;
+            width: 100%;
+            padding: 6px;
+            box-sizing: border-box;
+          }
+        }
+      }
+
+      .formBtnContainer {
+        text-align: center;
+        margin-top: 20px;
+        .formBtn {
+          padding: 8px 36px;
+          border: 0;
+          border-radius: 500px;
+          background: transparent;
+          font-family: "Source Sans Pro", sans-serif;
+          font-size: 16px;
+          font-weight: 600;
+          cursor: pointer;
+          background: #6a36ff;
+          color: white;
+          -webkit-box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
+        }
+      }
+    }
+    .close {
+      color: #6a36ff;
+      text-align: right;
+      font-size: 20px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+  }
+}
+
+//----------------------------------------------------
 
 @media only screen and (min-width: 360px) {
   .container {
@@ -373,6 +523,7 @@ a:hover {
           display: inline-block;
           width: 32.5%;
           border: 0;
+          -webkit-box-sizing: border-box;
           box-sizing: border-box;
           padding: 10px 20px;
           &:first-of-type {
@@ -395,6 +546,11 @@ a:hover {
     }
     .footer {
       padding: 210px 60px 30px 60px;
+    }
+  }
+  .getInTouchForm {
+    .formContainer {
+      padding: 25px 80px;
     }
   }
 }
@@ -470,6 +626,7 @@ a:hover {
         .workBoxGrid {
           width: 50%;
           display: inline-block;
+          -webkit-box-sizing: border-box;
           box-sizing: border-box;
           &:nth-of-type(1),
           &:nth-of-type(2) {
@@ -521,6 +678,43 @@ a:hover {
         font-size: 18px;
         .copy {
           font-size: 30px;
+        }
+      }
+    }
+  }
+  .getInTouchForm {
+    .formContainer {
+      padding: 25px;
+      .formContent {
+        padding: 0 90px;
+        margin-top: 30px;
+        .formHeading {
+          font-size: 26px;
+        }
+        .formDesc {
+          font-size: 18px;
+          margin-bottom: 30px;
+        }
+        .fontZero {
+          .formElem {
+            .labels {
+              font-size: 18px;
+            }
+            .inputs {
+              font-size: 16px;
+              font-weight: 300;
+            }
+            .txtarea {
+              font-size: 16px;
+              font-weight: 300;
+            }
+          }
+        }
+        .formBtnContainer {
+          margin-top: 30px;
+          .formBtn {
+            font-size: 18px;
+          }
         }
       }
     }
@@ -617,12 +811,14 @@ a:hover {
         padding: 50px 5px;
         h2 {
           display: inline-block;
+          -webkit-box-sizing: border-box;
           box-sizing: border-box;
           vertical-align: middle;
           width: 30%;
         }
         .desk {
           display: inline-block;
+          -webkit-box-sizing: border-box;
           box-sizing: border-box;
           vertical-align: middle;
           width: 40%;
@@ -630,6 +826,7 @@ a:hover {
         }
         .resumeButtonContainer {
           display: inline-block;
+          -webkit-box-sizing: border-box;
           box-sizing: border-box;
           vertical-align: middle;
           width: 30%;
@@ -667,6 +864,67 @@ a:hover {
       }
     }
   }
+  .getInTouchForm {
+    .formContainer {
+      padding: 25px;
+      .formContent {
+        padding: 0 180px;
+        margin-top: 25px;
+        .formHeading {
+          font-size: 32px;
+        }
+        .formDesc {
+          font-size: 22px;
+          margin-bottom: 20px;
+          font-weight: 300;
+        }
+        .fontZero {
+          font-size: 0;
+          .formElem {
+            display: inline-block;
+            width: 50%;
+            box-sizing: border-box;
+            &:nth-of-type(5) {
+              width: 100%;
+            }
+
+            &:nth-of-type(2) .labels,
+            &:nth-of-type(4) .labels,
+            &:nth-of-type(2) .inputs,
+            &:nth-of-type(4) .inputs {
+              position: relative;
+              margin-left: 2%;
+            }
+            .labels {
+              font-size: 20px;
+              width: 98%;
+              margin-bottom: 3px;
+            }
+            .inputs {
+              font-size: 22px;
+              font-weight: 300;
+              border-radius: 5px;
+              width: 98%;
+            }
+            .txtarea {
+              font-size: 22px;
+              font-weight: 300;
+              border-radius: 5px;
+            }
+          }
+        }
+        .formBtnContainer {
+          margin-top: 25px;
+          .formBtn {
+            font-size: 22px;
+          }
+        }
+      }
+      .close {
+        font-size: 24px;
+      }
+    }
+  }
 }
 @media only screen and (min-width: 1170px) {
   .container {
@@ -701,6 +959,58 @@ a:hover {
     }
     .recentWork {
       padding: 90px 160px 120px 160px;
+      .workBoxContainer {
+        font-size: 0;
+        .workBoxGrid {
+          width: 33.33%;
+          display: inline-block;
+          -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+          &:nth-of-type(1),
+          &:nth-of-type(2),
+          &:nth-of-type(3) {
+            padding-bottom: 12px;
+          }
+          &:nth-of-type(4),
+          &:nth-of-type(5),
+          &:nth-of-type(6) {
+            padding-top: 12px;
+          }
+          &:nth-of-type(1) .workBox,
+          &:nth-of-type(4) .workBox {
+            position: relative;
+            margin-left: 0;
+          }
+          &:nth-of-type(2) .workBox,
+          &:nth-of-type(5) .workBox {
+            position: relative;
+            margin-left: 2%;
+          }
+          &:nth-of-type(3) .workBox,
+          &:nth-of-type(6) .workBox {
+            position: relative;
+            margin-left: 4%;
+          }
+          .workBox {
+            width: 96%;
+            margin-bottom: 0;
+            .workDesc {
+              .middle {
+                .name {
+                  font-size: 24px;
+                }
+                .tech {
+                  font-size: 16px;
+                  margin: 12px 0 20px 0;
+                }
+                .workButton {
+                  font-size: 16px;
+                }
+              }
+            }
+          }
+        }
+      }
     }
     .myResumeContainer {
       margin: 0 160px;
@@ -721,6 +1031,44 @@ a:hover {
         .copy {
           font-size: 28px;
         }
+      }
+    }
+  }
+  .getInTouchForm {
+    .formContainer {
+      padding: 25px;
+      .formContent {
+        padding: 0 240px;
+        margin-top: 10px;
+        .formHeading {
+          font-size: 32px;
+        }
+        .formDesc {
+          font-size: 22px;
+          margin-bottom: 30px;
+        }
+        .labels {
+          font-size: 20px;
+        }
+        .inputs {
+          font-size: 22px;
+          font-weight: 300;
+          border-radius: 5px;
+        }
+        .txtarea {
+          font-size: 22px;
+          font-weight: 300;
+          border-radius: 5px;
+        }
+        .formBtnContainer {
+          margin-top: 25px;
+          .formBtn {
+            font-size: 22px;
+          }
+        }
+      }
+      .close {
+        font-size: 24px;
       }
     }
   }
